@@ -1,0 +1,146 @@
+ body {
+     margin: 0 auto;
+     font-family: 'Poppins', sans-serif;
+ }
+ 
+ section {
+     margin-bottom: 100px;
+     height: 580px;
+ }
+ 
+ .flexible {
+     display: flex;
+ }
+ 
+ .half-width {
+     width: 50%;
+     padding-left: 5%;
+ }
+ 
+ .half-width img {
+     width: 68%;
+     margin-left: 8%;
+ }
+ 
+ .orange-color {
+     color: #FFad5a;
+ }
+ 
+ .half-width p {
+     margin-bottom: 30px;
+     margin-top: 30px;
+ }
+ 
+ .button-deco {
+     background-color: #ff5959;
+     color: white;
+     padding: 10px 20px;
+     text-decoration: none;
+     border-radius: 5px;
+ }
+ 
+ h1 {
+     font-size: 40px;
+ }
+ 
+ .border {
+     margin-top: 130px;
+     border-left: 4px solid red;
+     border-radius: 2px;
+ }
+ 
+ .border h1 {
+     margin-left: 8px;
+     margin-bottom: 0;
+     font-family: 'Yeseva One', cursive;
+ }
+ 
+ .three-portion {
+     margin-left: 6%;
+     width: 23%;
+     height: 300px;
+     border-radius: 15px;
+     padding: 20px;
+ }
+ 
+ .part1 {
+     background-color: rgba(79, 157, 166, .1);
+ }
+ 
+ #part2 {
+     background-color: rgba(255, 89, 89, .1);
+ }
+ 
+ #part3 {
+     background-color: rgba(255, 225, 180, .5);
+ }
+ 
+ .three-portion img {
+     width: 30%;
+ }
+ 
+ .heading-center {
+     text-align: center;
+ }
+ 
+ .gap-reduce {
+     margin-right: 8%;
+     overflow: hidden;
+ }
+ 
+ .half-width .shape {
+     width: 85%;
+ }
+ 
+ #without-limits {
+     background-image: url(images/shapes/shape-1.png);
+     background-repeat: no-repeat;
+     background-position: left;
+     background-size: 18%;
+ }
+ 
+ #global {
+     background-image: url(images/shapes/shape-1.png);
+     background-repeat: no-repeat;
+     background-position: right bottom;
+     background-size: 20%;
+ }
+ 
+ .form-design {
+     width: 175px;
+     height: 30px;
+     border-color: orange;
+     border-radius: 5px;
+     font-size: 15px;
+     margin-left: 5px;
+ }
+ 
+ #text-area {
+     margin-top: 30px;
+     width: 90%;
+     height: 260px;
+     font-size: 15px;
+     border-color: orange;
+     border-radius: 5px;
+ }
+ 
+ button {
+     margin-top: 3%;
+     border-style: none;
+ }
+ 
+ footer {
+     background-color: black;
+     color: white;
+     height: 150px;
+ }
+ 
+ footer h2 {
+     padding-top: 30px;
+     font-family: 'Lobster', cursive;
+ }
+ 
+ footer p {
+     font-size: 14px;
+     font-weight: lighter;
+ }
